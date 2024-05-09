@@ -1,4 +1,4 @@
-# Hi there, I'm [Ivan] 👋
+# Hi there, I'm Ivan 👋
 
 Welcome to my code space! 🚀 Here you'll find information about me, my projects, the technologies I use, and much more. Let's dive into this exciting world together!
 
