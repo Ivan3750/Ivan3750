@@ -14,7 +14,7 @@ Here are some of my projects:
 
 1. **🏦Bank**
 2. **🍕Pizzeria** 
-3. **🪙Crypto** - Brief description of Project 3.
+3. **🪙Crypto**
 
 ...and so on.
 
