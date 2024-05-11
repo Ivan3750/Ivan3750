@@ -12,9 +12,9 @@ Welcome to my code space! 🚀 Here you'll find information about me, my project
 
 Here are some of my projects:
 
-1. **Project Name 1** - Brief description of Project 1.
-2. **Project Name 2** - Brief description of Project 2.
-3. **Project Name 3** - Brief description of Project 3.
+1. **🏦Bank**
+2. **🍕Pizzeria** 
+3. **🪙Crypto** - Brief description of Project 3.
 
 ...and so on.
 
