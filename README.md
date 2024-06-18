@@ -22,7 +22,7 @@ Here are some of my projects:
 
 My favorite programming languages and tools include:
 
-- **Languages:** HTML, CSS, JavaScript.
+- **Languages:** HTML, CSS, JavaScript, Node.js
 - **Frameworks and Libraries:** React, Bootstrap.
 - **Tools:** Git, VS Code.
 
