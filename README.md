@@ -14,7 +14,7 @@ Here are some of my projects:
 
 1. **🏦Bank**
 2. **🍕Pizzeria** 
-3. **🪙Crypto**
+3. **📱Social Media**
 
 ...and so on.
 
@@ -23,8 +23,9 @@ Here are some of my projects:
 My favorite programming languages and tools include:
 
 - **Languages:** HTML, CSS, JavaScript, Node.js
-- **Frameworks and Libraries:** React, Bootstrap.
-- **Tools:** Git, VS Code.
+- **Frameworks and Libraries:** React, Bootstrap, Express.js SASS/SCSS
+- **Tools:** Git, VS Code, Webpack, Postman
+- **Databases:** MongoDB 
 
 ## Get in Touch
 
