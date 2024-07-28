@@ -10,11 +10,11 @@ Welcome to my code space! 🚀 Here you'll find information about me, my project
 
 ## My Projects
 
-Here are some of my projects:
+Here are some of my best projects:
 
-1. **🏦Bank**
-2. **🍕Pizzeria** 
-3. **📱Social Media**
+1. [**🏦Bank**](https://ivan3750.github.io/SmartBank/)
+2. [**🍕Pizzeria**](https://ivan3750.github.io/pizzle/dist/index.html)
+3. [**📱Social Media**](https://github.com/Ivan3750/moments)
 
 ...and so on.
 
@@ -25,12 +25,15 @@ My favorite programming languages and tools include:
 - **Languages:** HTML, CSS, JavaScript, Node.js
 - **Frameworks and Libraries:** React, Bootstrap, Express.js SASS/SCSS
 - **Tools:** Git, VS Code, Webpack, Postman
-- **Databases:** MongoDB 
-
-## Get in Touch
+- **Databases:** MongoDB
+  
+- **Spoken languages** Danish English Ukrainian
+  
+- ## Get in Touch
 
 I'm always open to new connections and collaborations. Reach out to me via:
 
 - 📧 Email: [kohan3750@gmail.com](mailto:kohan3750@gmail.com)
+- **More :** [My Website](https://ivan3750.github.io/AboutMe/)
 
 Feel free to contact me if you have any questions or proposals! 😊
