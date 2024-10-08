@@ -22,10 +22,10 @@ Here are some of my best projects:
 
 My favorite programming languages and tools include:
 
-- **Languages:** HTML, CSS, JavaScript, Node.js
-- **Frameworks and Libraries:** React, Bootstrap, Express.js SASS/SCSS
-- **Tools:** Git, VS Code, Webpack, Postman
-- **Databases:** MongoDB
+- **Languages:** HTML, CSS, JavaScript, Node.js TypeScript
+- **Frameworks and Libraries:** React, Bootstrap, Express.js SASS/SCSS, Next.js
+- **Tools:** Git, VS Code, Webpack, Postman 
+- **Databases:** MongoDB, PostgreSQL
   
 - **Spoken languages** Danish English Ukrainian
   
