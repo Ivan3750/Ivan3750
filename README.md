@@ -1,39 +1,65 @@
 # Hi there, I'm Ivan 👋
 
-Welcome to my code space! 🚀 Here you'll find information about me, my projects, the technologies I use, and much more. Let's dive into this exciting world together!
+Welcome to my code space! 🚀  
+Here you'll find everything about me, my favorite projects, the technologies I use, and more. Let's explore the digital world together!
 
-## About Me
+---
 
-- 💻 I'm a passionate Front End Developer.
-- 🎓 My main areas of interest are web development, UI/UX design, and front end frameworks.
-- 🌱 I'm always eager to improve my skills and learn new technologies.
+## 👨‍💻 About Me
 
-## My Projects
+- 💻 I'm a passionate **Front-End Developer**.
+- 🎯 I specialize in **web development**, **UI/UX design**, and **modern front-end frameworks**.
+- 🌱 Currently learning and improving my skills every day — always curious, always coding.
+- 🛠️ I also work with some backend technologies and tools to support full stack functionality.
 
-Here are some of my best projects:
+---
 
-1. [**🏦Bank**](https://ivan3750.github.io/SmartBank/)
-2. [**🍕Pizzeria**](https://ivan3750.github.io/pizzle/dist/index.html)
-3. [**📱Social Media**](https://moments-mui4.onrender.com/)
+## 🚀 Projects
 
-...and so on.
+Here are a few of my favorite projects:
 
-## Languages and Tools
+1. [**🏦 SmartBank**](https://ivan3750.github.io/SmartBank/) — a responsive banking interface.
+2. [**🍕 Pizzeria Website**](https://ivan3750.github.io/pizzle/dist/index.html) — a tasty design with great UI.
+3. [**📱 Social Media Platform**](https://moments-mui4.onrender.com/) — a modern app built with React and Material UI.
 
-My favorite programming languages and tools include:
+...and more on the way!
 
-- **Languages:** HTML, CSS, JavaScript, Node.js TypeScript
-- **Frameworks and Libraries:** React, Bootstrap, Express.js SASS/SCSS, Next.js
-- **Tools:** Git, VS Code, Webpack, Postman 
-- **Databases:** MongoDB, PostgreSQL
-  
-- **Spoken languages** Danish English Ukrainian
-  
-- ## Get in Touch
+---
 
-I'm always open to new connections and collaborations. Reach out to me via:
+## 🧰 Tech Stack
 
-- 📧 Email: [kohan3750@gmail.com](mailto:kohan3750@gmail.com)
-- **More :** [My Website](https://ivan3750.github.io/AboutMe/)
+**Languages:**  
+HTML, CSS, JavaScript, TypeScript, Node.js, PHP
 
-Feel free to contact me if you have any questions or proposals! 😊
+**Frameworks & Libraries:**  
+React, Next.js, Express.js, Bootstrap, SASS/SCSS, Tailwind CSS
+
+**Databases:**  
+MongoDB, PostgreSQL, MySQL
+
+**Tools & Platforms:**  
+Git & GitHub, VS Code, Webpack, Postman
+
+**Currently Learning:**  
+Redux
+
+---
+
+## 🌍 Languages I Speak
+
+- 🇺🇦 Ukrainian (native)
+- 🇬🇧 English (intermediate)
+- 🇩🇰 Danish (intermediate)
+
+---
+
+## 📬 Get in Touch
+
+I'm always open to new connections, collaborations, or just a friendly chat.
+
+- 📧 Email: [kohan3750@gmail.com](mailto:kohan3750@gmail.com)  
+- 🌐 Website: [My Portfolio](https://ivan3750.github.io/AboutMe/)
+
+---
+
+Thanks for stopping by — let’s build something amazing together! 😊
