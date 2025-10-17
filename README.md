@@ -20,7 +20,7 @@ Here are a few of my favorite projects:
 
 1. [**🏦 SmartBank**](https://ivan3750.github.io/SmartBank/) — a responsive banking interface.
 2. [**🍕 Pizzeria Website**](https://ivan3750.github.io/pizzle/dist/index.html) — a tasty design with great UI.
-3. [**📱 Vitrazh **](https://vitrazh.com.ua) — a website that sells windows
+3. [**🪟 Vitrazh**](https://vitrazh.com.ua) — a website that sells windows
 
 ...and more on the way!
 
