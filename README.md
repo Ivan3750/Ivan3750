@@ -20,7 +20,7 @@ Here are a few of my favorite projects:
 
 1. [**🏦 SmartBank**](https://ivan3750.github.io/SmartBank/) — a responsive banking interface.
 2. [**🍕 Pizzeria Website**](https://ivan3750.github.io/pizzle/dist/index.html) — a tasty design with great UI.
-3. [**📱 Social Media Platform**](https://moments-mui4.onrender.com/) — a modern app built with React and Material UI.
+3. [**📱 Vitrazh **](https://vitrazh.com.ua) — a website that sells windows
 
 ...and more on the way!
 
@@ -29,13 +29,10 @@ Here are a few of my favorite projects:
 ## 🧰 Tech Stack
 
 **Languages:**  
-HTML, CSS, JavaScript, TypeScript, Node.js, PHP
+HTML, CSS, JavaScript, TypeScript, Node.js
 
 **Frameworks & Libraries:**  
 React, Next.js, Express.js, Bootstrap, SASS/SCSS, Tailwind CSS
-
-**Databases:**  
-MongoDB, PostgreSQL, MySQL
 
 **Tools & Platforms:**  
 Git & GitHub, VS Code, Webpack, Postman
