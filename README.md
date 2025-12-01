@@ -35,10 +35,10 @@ HTML, CSS, JavaScript, TypeScript, Node.js
 React, Next.js, Express.js, Bootstrap, SASS/SCSS, Tailwind CSS
 
 **Tools & Platforms:**  
-Git & GitHub, VS Code, Webpack, Postman
+Git & GitHub, VS Code, Webpack, Postman, Redux
 
 **Currently Learning:**  
-Redux
+PHP
 
 ---
 
