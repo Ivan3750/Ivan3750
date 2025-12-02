@@ -1,63 +1,21 @@
-# Hi there, I'm Ivan 👋
-
-Welcome to my code space! 🚀  
-Here you'll find everything about me, my favorite projects, the technologies I use, and more. Let's explore the digital world together!
-
----
+# 💫 About Me:
+Hi there, I'm Ivan 👋<br>Welcome to my code space! 🚀<br>Here you'll find everything about me, my favorite projects, the technologies I use, and more. Let's explore the digital world together!<br><br>👨‍💻 About Me<br>💻 I'm a passionate Front-End Developer.<br>🎯 I specialize in web development, UI/UX design, and modern front-end frameworks.<br>🌱 Currently learning and improving my skills every day — always curious, always coding.<br>🛠️ I also work with some backend technologies and tools to support full stack functionality.<br
 
 
-## 👨‍💻 About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivan.kohan.ua) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kohan3750@gmail.com) 
 
-- 💻 I'm a passionate **Front-End Developer**.
-- 🎯 I specialize in **web development**, **UI/UX design**, and **modern front-end frameworks**.
-- 🌱 Currently learning and improving my skills every day — always curious, always coding.
-- 🛠️ I also work with some backend technologies and tools to support full stack functionality.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ivan3750&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ivan3750&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan3750&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ivan3750&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 Projects
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ivan3750&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Here are a few of my favorite projects:
-
-1. [**🏦 SmartBank**](https://ivan3750.github.io/SmartBank/) — a responsive banking interface.
-2. [**🍕 Pizzeria Website**](https://ivan3750.github.io/pizzle/dist/index.html) — a tasty design with great UI.
-3. [**🪟 Vitrazh**](https://vitrazh.com.ua) — a website that sells windows
-
-...and more on the way!
-
----
-
-## 🧰 Tech Stack
-
-**Languages:**  
-HTML, CSS, JavaScript, TypeScript, Node.js
-
-**Frameworks & Libraries:**  
-React, Next.js, Express.js, Bootstrap, SASS/SCSS, Tailwind CSS
-
-**Tools & Platforms:**  
-Git & GitHub, VS Code, Webpack, Postman, Redux
-
-**Currently Learning:**  
-PHP
-
----
-
-## 🌍 Languages I Speak
-
-- 🇺🇦 Ukrainian (native)
-- 🇬🇧 English (intermediate)
-- 🇩🇰 Danish (intermediate)
-
----
-
-## 📬 Get in Touch
-
-I'm always open to new connections, collaborations, or just a friendly chat.
-
-- 📧 Email: [kohan3750@gmail.com](mailto:kohan3750@gmail.com)  
-- 🌐 Website: [My Portfolio](https://ivan3750.github.io/AboutMe/)
-
----
-
-Thanks for stopping by — let’s build something amazing together! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
